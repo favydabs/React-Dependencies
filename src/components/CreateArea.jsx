@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import Fab from '@mui/material/Fab';
 
 function CreateArea(props) {
   const [note, setNote] = useState({
